@@ -1,0 +1,39 @@
+.body{
+    padding: 0px;
+    margin:0px;
+}
+
+.heading{
+    padding: 0px;
+    margin:0px;
+    text-align: center;
+    font-size:30px;
+}
+
+.parentDiv{
+    margin: 30px 300px 0px 300px; 
+    padding: 0px 0px 0px 315px;
+}
+
+.mainBox{
+    text-align: center;
+    display:flex;
+    flex-flow: row;
+    height:305px;
+    width: 350px;
+    flex-wrap: wrap;
+    justify-content:center;
+    
+}
+
+.childBox{
+    border:1px solid black;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.box{
+    font-size: 105px;
+}
+
